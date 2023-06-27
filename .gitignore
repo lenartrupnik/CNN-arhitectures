@@ -1,0 +1,11 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+oddaja/
+bird_data.zip
+bird_data/
+.ipynb_checkpoints/
+seg_data/
+result_images/
